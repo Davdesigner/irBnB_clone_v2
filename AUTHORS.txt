@@ -1,0 +1,5 @@
+# AirBnB clone - The console
+#This is a list of authors who worked on the project
+
+Afsa Umutoniwase <a.umutoniwa@alustudent.com>
+Bridget Chimdinma <b.ogbuagu@alustudent.com>
